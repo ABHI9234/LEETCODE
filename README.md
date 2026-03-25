@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/ABHI9234/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/ABHI9234/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
