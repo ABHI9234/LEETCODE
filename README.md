@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ABHI9234/LEETCODE/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ABHI9234/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
