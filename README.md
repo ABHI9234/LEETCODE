@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ABHI9234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ABHI9234/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHI9234/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ABHI9234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/ABHI9234/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ABHI9234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
