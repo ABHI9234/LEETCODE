@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ABHI9234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ABHI9234/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
