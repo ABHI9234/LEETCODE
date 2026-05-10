@@ -3,23 +3,34 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        stack<pair<int,int>> st;
-        for(int i =0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(matrix[i][j]==0) st.push({i,j});
+        bool firstRowZero = false;
+        bool firstColZero = false;
+        for (int i = 0; i < n; i++) {
+            if (matrix[i][0] == 0) firstColZero = true;
+        }
+        for (int j = 0; j < m; j++) {
+            if (matrix[0][j] == 0) firstRowZero = true;
+        }
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
+                }
             }
         }
-        while(st.size()>0){
-            int x = st.top().first;
-            int y = st.top().second;
-            for(int i=0;i<m;i++){
-                matrix[x][i]=0;
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
+                    matrix[i][j] = 0;
+                }
             }
-            for(int i=0;i<n;i++){
-                matrix[i][y]=0;
-            }
-            st.pop();
         }
-
+        if (firstColZero) {
+            for (int i = 0; i < n; i++) matrix[i][0] = 0;
+        }
+        if (firstRowZero) {
+            for (int j = 0; j < m; j++) matrix[0][j] = 0;
+        }
     }
 };
