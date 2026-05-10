@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ABHI9234/LEETCODE/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ABHI9234/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHI9234/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/ABHI9234/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
