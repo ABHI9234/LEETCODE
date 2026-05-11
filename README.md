@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/ABHI9234/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/ABHI9234/LEETCODE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ABHI9234/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABHI9234/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ABHI9234/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/ABHI9234/LEETCODE/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABHI9234/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
