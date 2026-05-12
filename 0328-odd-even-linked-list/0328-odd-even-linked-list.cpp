@@ -1,17 +1,17 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head==NULL) return NULL;
-        ListNode* a = head;
-        ListNode* b = head->next;
-        ListNode* c = head->next;
-        while(b!=NULL && b->next!=NULL){
-            a->next = a->next->next;
-            b->next = b->next->next;
-            a= a->next;
-            b=b->next;
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* t1=head;
+        ListNode* t2 = head->next;
+        ListNode* t3 = head->next;
+        while(t2 != NULL && t2->next!=NULL){
+            t1->next = t2->next;
+            t1 = t1->next;
+            t2->next = t1->next;
+            t2 = t2->next;
         }
-        a->next = c;
+        t1->next = t3;
         return head;
     }
 };
