@@ -13,6 +13,6 @@ public:
                 break;
             }
         }
-        return (flag & f);
+        return (flag && f);
     }
 };
