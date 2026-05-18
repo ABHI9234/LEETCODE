@@ -7,6 +7,7 @@ public:
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL) return 0;
+        
         maxdia = max(levels(root->left)+levels(root->right),maxdia);
         diameterOfBinaryTree(root->left);
         diameterOfBinaryTree(root->right);
