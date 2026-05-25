@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ABHI9234/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ABHI9234/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
