@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ABHI9234/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ABHI9234/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ABHI9234/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ABHI9234/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ABHI9234/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
