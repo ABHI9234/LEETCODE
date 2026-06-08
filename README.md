@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ABHI9234/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ABHI9234/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ABHI9234/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -302,8 +304,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
