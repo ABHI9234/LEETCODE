@@ -1,36 +1,25 @@
 class Solution {
 public:
+    typedef pair<int,int> pi;
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        bool firstRowZero = false;
-        bool firstColZero = false;
-        for (int i = 0; i < n; i++) {
-            if (matrix[i][0] == 0) firstColZero = true;
-        }
-        for (int j = 0; j < m; j++) {
-            if (matrix[0][j] == 0) firstRowZero = true;
-        }
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-                }
+        queue<pi> q;
+        for(int i =0;i<n;i++){
+            for(int j =0;j<m;j++){
+                if(matrix[i][j]==0) q.push({i,j});
             }
         }
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
-                }
+        while(!q.empty()){
+            int i = q.front().first;
+            int j = q.front().second;
+            q.pop();
+            for(int k =0;k<m;k++){
+                matrix[i][k]=0;
             }
-        }
-        if (firstColZero) {
-            for (int i = 0; i < n; i++) matrix[i][0] = 0;
-        }
-        if (firstRowZero) {
-            for (int j = 0; j < m; j++) matrix[0][j] = 0;
+            for(int k =0;k<n;k++){
+                matrix[k][j]=0;
+            }
         }
     }
 };
