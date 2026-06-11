@@ -1,29 +1,25 @@
 class Solution {
 public:
-    typedef pair<int,int> pi;// this is used to give shortcuts
+    typedef pair<int,int> pi;
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int,int> m;
-        for(int x: nums){
-            m[x]++;
+        unordered_map<int,int> mp;
+        int n = nums.size();
+        for(int i =0;i<n;i++){
+            mp[nums[i]]++;
         }
-        //priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>> > pq;
-        // to declare pair in queue we use the above method or we can do typedef
         priority_queue<pi,vector<pi>,greater<pi>> pq;
-        for(auto x: m){
-            int ele = x.first;
-            int freq = x.second;
-            // pair<int,int> p = {freq,ele};
-            // pq.push(p); like this or
-            pq.push({freq,ele});
+        for(auto it:mp){
+            int val = it.first;
+            int freq = it.second;
+            pq.push({freq,val});
             if(pq.size()>k) pq.pop();
         }
         vector<int> ans;
-        while(pq.size()){
-            int ele = pq.top().second;
-            ans.push_back(ele);
+        while(pq.size()>0){
+            ans.push_back(pq.top().second);
             pq.pop();
         }
+        reverse(ans.begin(),ans.end());
         return ans;
-         
     }
 };
