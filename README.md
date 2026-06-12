@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ABHI9234/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABHI9234/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ABHI9234/LEETCODE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ABHI9234/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABHI9234/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ABHI9234/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHI9234/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ABHI9234/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/ABHI9234/LEETCODE/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHI9234/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ABHI9234/LEETCODE/tree/master/0402-remove-k-digits) |
