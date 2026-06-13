@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/ABHI9234/LEETCODE/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/ABHI9234/LEETCODE/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
