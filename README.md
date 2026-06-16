@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ABHI9234/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ABHI9234/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ABHI9234/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
