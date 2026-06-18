@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0090-subsets-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
