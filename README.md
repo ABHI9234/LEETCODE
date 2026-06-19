@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ABHI9234/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ABHI9234/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -356,12 +358,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ABHI9234/LEETCODE/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/ABHI9234/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/ABHI9234/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
