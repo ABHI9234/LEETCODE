@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHI9234/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
 ## Queue
 |  |
 | ------- |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ABHI9234/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
 ## Memoization
 |  |
 | ------- |
