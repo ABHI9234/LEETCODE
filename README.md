@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABHI9234/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ABHI9234/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABHI9234/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
