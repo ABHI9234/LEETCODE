@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ABHI9234/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHI9234/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ABHI9234/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0704-binary-search](https://github.com/ABHI9234/LEETCODE/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ABHI9234/LEETCODE/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHI9234/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ABHI9234/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ABHI9234/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHI9234/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABHI9234/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
