@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ABHI9234/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/ABHI9234/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ABHI9234/LEETCODE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ABHI9234/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/ABHI9234/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ABHI9234/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/ABHI9234/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
