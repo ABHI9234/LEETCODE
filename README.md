@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/ABHI9234/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABHI9234/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/ABHI9234/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ABHI9234/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ABHI9234/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ABHI9234/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ABHI9234/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ABHI9234/LEETCODE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ABHI9234/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ABHI9234/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ABHI9234/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
