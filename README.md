@@ -536,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ABHI9234/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
