@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Data Stream
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
 ## Memoization
 |  |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
 |  |
