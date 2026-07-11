@@ -1,16 +1,21 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices, int fee) {
-        // Day 0 initialization
-        int free = 0;                  // Profit if we own nothing
-        int holding = -prices[0];      // Profit if we buy on day 0
-
-        for (int i = 1; i < prices.size(); i++) {
-            // Calculate today's optimal states based on yesterday's states
-            free = max(free, holding + prices[i] - fee);
-            holding = max(holding, free - prices[i]);
+    int f(int i, int buy,vector<int>& p,vector<vector<int>>& dp,int n,int fee){
+        if(i == n) return 0;
+        if(dp[i][buy] != -1) 
+            return dp[i][buy];
+        int profit; 
+        if(buy == 1){
+            profit = max(-p[i] + f(i+1, 0,p,dp,n,fee),f(i+1, 1,p,dp,n,fee));
         }
-
-        return free; // The max profit when we aren't holding any stock
+        else{
+            profit = max(p[i] -fee + f(i+1, 1,p,dp,n,fee),f(i+1, 0,p,dp,n,fee));
+        }
+        return dp[i][buy] = profit;
+    }
+    int maxProfit(vector<int>& p,int fee) {             
+        int n = p.size();  
+        vector<vector<int>> dp(n, vector<int>(2, -1));    
+        return f(0, 1,p,dp,n,fee);          
     }
 };
