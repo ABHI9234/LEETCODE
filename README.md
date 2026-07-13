@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 ## Math
 |  |
 | ------- |
