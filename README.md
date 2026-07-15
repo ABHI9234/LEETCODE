@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ABHI9234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3894-traffic-signal-color](https://github.com/ABHI9234/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Matrix
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ABHI9234/LEETCODE/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
+| [3894-traffic-signal-color](https://github.com/ABHI9234/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Design
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3894-traffic-signal-color](https://github.com/ABHI9234/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Greedy
 |  |
