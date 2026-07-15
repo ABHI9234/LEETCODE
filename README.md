@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ABHI9234/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/ABHI9234/LEETCODE/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ABHI9234/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/ABHI9234/LEETCODE/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ABHI9234/LEETCODE/tree/master/3111-minimum-rectangles-to-cover-points) |
