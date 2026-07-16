@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ABHI9234/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/ABHI9234/LEETCODE/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ABHI9234/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/ABHI9234/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABHI9234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bit Manipulation
