@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ABHI9234/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1695-maximum-erasure-value](https://github.com/ABHI9234/LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ABHI9234/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ABHI9234/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1695-maximum-erasure-value](https://github.com/ABHI9234/LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ABHI9234/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/ABHI9234/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ABHI9234/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1695-maximum-erasure-value](https://github.com/ABHI9234/LEETCODE/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
