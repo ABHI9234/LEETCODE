@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3943-number-of-pairs-after-increment](https://github.com/ABHI9234/LEETCODE/tree/master/3943-number-of-pairs-after-increment) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ABHI9234/LEETCODE/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ABHI9234/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/ABHI9234/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Matrix
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ABHI9234/LEETCODE/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/ABHI9234/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Design
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ABHI9234/LEETCODE/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Interactive
 |  |
