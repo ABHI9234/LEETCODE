@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ABHI9234/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ABHI9234/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/ABHI9234/LEETCODE/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Number Theory
