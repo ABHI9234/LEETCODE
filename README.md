@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/ABHI9234/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0851-loud-and-rich](https://github.com/ABHI9234/LEETCODE/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/ABHI9234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/ABHI9234/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ABHI9234/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ABHI9234/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ABHI9234/LEETCODE/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ABHI9234/LEETCODE/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ABHI9234/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ABHI9234/LEETCODE/tree/master/0851-loud-and-rich) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ABHI9234/LEETCODE/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/ABHI9234/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/ABHI9234/LEETCODE/tree/master/0851-loud-and-rich) |
 ## Shortest Path
 |  |
 | ------- |
