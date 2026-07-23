@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ABHI9234/LEETCODE/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHI9234/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ABHI9234/LEETCODE/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
