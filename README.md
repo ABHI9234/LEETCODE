@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/ABHI9234/LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ABHI9234/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ABHI9234/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/ABHI9234/LEETCODE/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/ABHI9234/LEETCODE/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1387-sort-integers-by-the-power-value](https://github.com/ABHI9234/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ABHI9234/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ABHI9234/LEETCODE/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
