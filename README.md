@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/ABHI9234/LEETCODE/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/ABHI9234/LEETCODE/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ABHI9234/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ABHI9234/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ABHI9234/LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
