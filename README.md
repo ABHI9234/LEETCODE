@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1695-maximum-erasure-value](https://github.com/ABHI9234/LEETCODE/tree/master/1695-maximum-erasure-value) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ABHI9234/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABHI9234/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ABHI9234/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ABHI9234/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/ABHI9234/LEETCODE/tree/master/0901-online-stock-span) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/ABHI9234/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ABHI9234/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABHI9234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -605,10 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -618,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 ## Database
 |  |
 | ------- |
