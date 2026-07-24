@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABHI9234/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ABHI9234/LEETCODE/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [3703-remove-k-balanced-substrings](https://github.com/ABHI9234/LEETCODE/tree/master/3703-remove-k-balanced-substrings) |
 ## Array
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ABHI9234/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ABHI9234/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/ABHI9234/LEETCODE/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ABHI9234/LEETCODE/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/ABHI9234/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ABHI9234/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/ABHI9234/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ABHI9234/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ABHI9234/LEETCODE/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/ABHI9234/LEETCODE/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ABHI9234/LEETCODE/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABHI9234/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/ABHI9234/LEETCODE/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Tree
 |  |
 | ------- |
