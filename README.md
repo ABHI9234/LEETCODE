@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ABHI9234/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ABHI9234/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/ABHI9234/LEETCODE/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ABHI9234/LEETCODE/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/ABHI9234/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ABHI9234/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/ABHI9234/LEETCODE/tree/master/1387-sort-integers-by-the-power-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ABHI9234/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ABHI9234/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3685-subsequence-sum-after-capping-elements](https://github.com/ABHI9234/LEETCODE/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ABHI9234/LEETCODE/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/ABHI9234/LEETCODE/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ABHI9234/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
