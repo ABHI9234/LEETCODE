@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ABHI9234/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0553-optimal-division](https://github.com/ABHI9234/LEETCODE/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ABHI9234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ABHI9234/LEETCODE/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHI9234/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ABHI9234/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/ABHI9234/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0553-optimal-division](https://github.com/ABHI9234/LEETCODE/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ABHI9234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ABHI9234/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/ABHI9234/LEETCODE/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ABHI9234/LEETCODE/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHI9234/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABHI9234/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ABHI9234/LEETCODE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ABHI9234/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/ABHI9234/LEETCODE/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ABHI9234/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ABHI9234/LEETCODE/tree/master/1288-remove-covered-intervals) |
