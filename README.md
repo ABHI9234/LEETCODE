@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ABHI9234/LEETCODE/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/ABHI9234/LEETCODE/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/ABHI9234/LEETCODE/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABHI9234/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ABHI9234/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2182-construct-string-with-repeat-limit](https://github.com/ABHI9234/LEETCODE/tree/master/2182-construct-string-with-repeat-limit) |
 | [2424-longest-uploaded-prefix](https://github.com/ABHI9234/LEETCODE/tree/master/2424-longest-uploaded-prefix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ABHI9234/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ABHI9234/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ABHI9234/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ABHI9234/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ABHI9234/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHI9234/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/ABHI9234/LEETCODE/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ABHI9234/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
